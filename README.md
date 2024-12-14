@@ -1,6 +1,9 @@
 # MaxGpiodSwitch
 A Domoticz plugin that controls GPIO pins on a Raspberry Pi via libgpiod library.
 
+This plugin is inspired by the plugin created by dnpwwo https://github.com/dnpwwo/Domoticz-GPIO-Plugin
+
+
 ## Key Features
 Creates one Domoticz device per relay.
 
